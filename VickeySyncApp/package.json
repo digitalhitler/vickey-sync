@@ -5,5 +5,9 @@
   "main": "app.js",
   "author": {
     "name": "Getrix"
+  },
+  "dependencies": {
+    "kue": "^0.11.1",
+    "kue-ui": "^0.1.0"
   }
 }
