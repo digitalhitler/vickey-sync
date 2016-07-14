@@ -1,0 +1,9 @@
+{
+  "name": "vickey-sync-app",
+  "version": "0.0.0",
+  "description": "VickeySyncApp",
+  "main": "app.js",
+  "author": {
+    "name": "Getrix"
+  }
+}
